@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Help us find Bhanu Virmani, a 24-year-old mentally challenged individual missing since August 20th. Last seen at Hapur Railway Station.">
+    <meta name="keywords" content="Bhanu Virmani, missing person, mentally challenged, Hapur Railway Station, Nauchandi Express, Meerut Cantt, lost person, help find Bhanu">
+    <meta name="author" content="Family of Bhanu Virmani">
+    <title>Help Find Bhanu Virmani - Missing Since August 20th</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 700px;
+            margin: 30px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .info {
+            margin-top: 20px;
+        }
+        .contact {
+            margin-top: 30px;
+            background: #e8e8e8;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        .contact h2 {
+            margin-top: 0;
+        }
+        .contact p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
